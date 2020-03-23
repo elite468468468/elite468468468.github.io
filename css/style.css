@@ -12,11 +12,15 @@ h5 {
 }
 
 #sp-2 {
-  font-size: 125%;
+  font-size: 110%;
 }
 
 #p-1 {
   text-align: justify;
+}
+
+#p-2 {
+  font-size: 15px;
 }
 
 a {
