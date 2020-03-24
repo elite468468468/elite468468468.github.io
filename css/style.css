@@ -27,11 +27,6 @@ h5 {
   font-size: 160%;
 }
 
-#img-2 {
-  width: 300px;
-  height: 200px;
-}
-
 a {
   color: #149ddd;
 }
@@ -865,13 +860,6 @@ section {
     background-size: cover;
   }
 
-  .img-3 {
-    margin-left: 15%;
-  }
-
-  .img-4 {
-    visibility: hidden;
-  }
 }
 
 
