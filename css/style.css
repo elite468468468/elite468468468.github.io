@@ -829,7 +829,7 @@ section {
 
 @media (max-width: 600px) {
   #temp {
-    color: green !important; 
+    color: yellow !important; 
  }
 
   #p-2{
@@ -846,5 +846,9 @@ section {
 
   #t-size-3 {
     font-size: 30px !important; 
+  }
+
+  #t-size-4 {
+    content:"</br>(Code Cup of Mohaghegh)";
   }
 }
