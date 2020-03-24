@@ -12,7 +12,7 @@ h5 {
 }
 
 #sp-2 {
-  font-size: 100%;
+  font-size: 90%;
 }
 
 #p-1 {
@@ -824,5 +824,27 @@ section {
     position: static;
     width: auto;
     padding-right: 20px 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  #temp {
+    color: green !important; 
+ }
+
+  #p-2{
+    font-size: 9px !important;
+  }
+
+  #t-size-1 {
+    font-size: 25px !important;
+  }
+
+  #t-size-2 {
+    font-size: 14px !important; 
+  }
+
+  #t-size-3 {
+    font-size: 30px !important; 
   }
 }
