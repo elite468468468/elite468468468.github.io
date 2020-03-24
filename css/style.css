@@ -848,7 +848,12 @@ section {
     font-size: 30px !important; 
   }
 
-  #t-size-4 {
-    content:"</br>(Code Cup of Mohaghegh)";
+  #sp-2 {
+    font-size: 80% !important;
   }
+
+  #h-2 {
+    font-size: 110% !important;
+  }
+
 }
