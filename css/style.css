@@ -829,7 +829,7 @@ section {
 
 @media (max-width: 600px) {
   #temp {
-    color: yellow !important; 
+    color: orange !important; 
  }
 
   #p-2{
@@ -849,7 +849,7 @@ section {
   }
 
   #sp-2 {
-    font-size: 80% !important;
+    font-size: 70% !important;
   }
 
   #h-2 {
