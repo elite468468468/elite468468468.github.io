@@ -829,11 +829,11 @@ section {
 
 @media (max-width: 600px) {
   #temp {
-    color: orange !important; 
+    color: blue !important; 
  }
 
   #p-2{
-    font-size: 11px !important;
+    font-size: 12px !important;
   }
 
   #t-size-1 {
