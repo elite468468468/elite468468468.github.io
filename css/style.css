@@ -853,4 +853,10 @@ section {
     font-size: 110% !important;
   }
 
+  #home {
+    width: 100%;
+    height: 100vh;
+    background: url("../img/wallpaper-2.png") top center;
+    background-size: cover;
+  }
 }
