@@ -1744,7 +1744,11 @@ a:hover.back-to-top {
 		font-size: medium;
 	}
 	.p-small {
-		font-size: small;
+		font-size: 8pt;
+	}
+	.header {
+		background: url('../images/bg.png') center center no-repeat;
+		background-size: cover;
 	}
 }
 
