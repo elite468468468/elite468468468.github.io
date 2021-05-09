@@ -7,6 +7,20 @@ h5 {
   color: white;
 }
 
+.mybtn {
+  margin: 5px;
+}
+
+#li-1 {
+  text-indent: 10px;
+  line-height: 0%;
+}
+
+#li-2 {
+  text-indent: 55px;
+  line-height: 0%;
+}
+
 #sp-1 {
   font-size: 15px;
 }
@@ -25,6 +39,11 @@ h5 {
 
 #h-2 {
   font-size: 160%;
+}
+
+#img-2 {
+  width: 300px;
+  height: 200px;
 }
 
 a {
@@ -138,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu {
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 .nav-menu * {
@@ -830,7 +849,7 @@ section {
 @media (max-width: 600px) {
 
   #p-2{
-    font-size: 13px !important;
+    font-size: 11px !important;
   }
 
   #t-size-1 {
@@ -860,6 +879,13 @@ section {
     background-size: cover;
   }
 
+  .img-3 {
+    margin-left: 15%;
+  }
+
+  .img-4 {
+    visibility: hidden;
+  }
 }
 
 
