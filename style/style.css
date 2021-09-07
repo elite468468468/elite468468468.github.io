@@ -4,6 +4,7 @@ p {
 
 * {
     box-sizing: border-box;
+    background-color:rgb(248, 236, 218);
 }
 
 .column {
