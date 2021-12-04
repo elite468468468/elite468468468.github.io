@@ -134,9 +134,17 @@ h2 {
     background-color: rgb(241, 111, 111);
   }
 
+@media only screen and (max-width: 550px) {
+    #pic {
+        margin-top: 50%;
+        padding-right: 20%;
+        margin-left: -35%;
+    }
+  }
+
 @media only screen and (max-width: 610px) {
     #pic {
-        margin-top: 10%;
+        margin-top: 25%;
         padding-right: 20%;
         margin-left: -35%;
     }
