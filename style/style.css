@@ -134,7 +134,7 @@ h2 {
     background-color: rgb(241, 111, 111);
   }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 580px) {
     #pic {
         margin-top: 50%;
         padding-right: 20%;
