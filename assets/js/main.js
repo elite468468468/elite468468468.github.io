@@ -103,7 +103,7 @@
 
 					// >large? Bail.
 						if (breakpoints.active('>large'))
-							return;
+							$sidebar.addClass('inactive');
 
 					// Vars.
 						var $a = $(this),

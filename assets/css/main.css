@@ -88,7 +88,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  color: black;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -2314,6 +2314,9 @@ button,
       }
       .my_variable_span_2 {
         display: block;
+      }
+      #news_hr {
+        margin-top: 0em;
       }
         #banner {
           margin-top: -2em;
